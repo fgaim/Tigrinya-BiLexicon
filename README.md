@@ -11,7 +11,12 @@ No human supervision was done, so the content is highly crude and contains numer
 ## Uses
  * This word list **CANNOT** serve as a reference dictionary AS IS, but is useful for research and educational purposes.  
  * Parts of this work has been used to improve [Free English-Tigrinya Bidirectional Dictionary](https://play.google.com/store/apps/details?id=com.geezlab.tetdic) android app.
- * This resource is under the permissive MIT License, it can be freely used for any purpose with proper attribution. 
+ * This resource is under the permissive MIT License, it can be freely used for any purpose with proper attribution.
+ * If you use this resource in a published work please cite as follows:
+
+```
+GeezLab Tigrinya BiLexicon, https://github.com/fgaim/Tigrinya-BiLexicon
+```
 
 
 ## Format
